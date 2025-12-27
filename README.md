@@ -1,8 +1,4 @@
 # TraceLi
-Absolutely — here’s a starter README for your repo based on what we’ve built so far.
-You can copy-paste this into README.md and modify anything you like.
-
-⸻
 
 📸 AR Photo Placement App
 
