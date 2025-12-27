@@ -9,6 +9,7 @@ An iOS app built with SwiftUI + RealityKit that lets users place a photo in Augm
 🚀 Features
 
 Feature	Description
+
 📤 Import Image	Select any photo from your device to place in AR
 ↔️ Move & Resize	Drag to move, pinch to scale, rotate with two fingers
 🎚️ Tilt Control	Slider to tilt the photo away from the user (X-axis) for desk/paper placement
@@ -20,6 +21,7 @@ Feature	Description
 ⸻
 
 🧰 Technologies Used
+
 	•	SwiftUI
 	•	RealityKit (ARView)
 	•	ARKit
@@ -29,6 +31,7 @@ Feature	Description
 ⸻
 
 🖼 How It Works
+
 	1.	Tap 📸 Select Photo
 	2.	Choose an image from your library
 	3.	Use gestures to position:
